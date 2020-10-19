@@ -65,7 +65,7 @@ function Map(props) {
     scrollwheel: true,
     zoomControl: false,
     draggable: true,
-    mapTypeId: "roadmap",
+    mapTypeId: "satellite",
     styles: MapTypeStyle,
     fullscreenControl: false,
     mapTypeControl: false,
